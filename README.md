@@ -9,6 +9,7 @@ Foi desenvolvido um sistema em Java com framework Spring Boot para ser utilizado
 •	O sistema implementou as principais funcionalidades esperadas, incluindo telas de cadastro e fluxos completos de casos de uso.
 
 2. Visão geral do sistema
+   
 O sistema deve possui um cadastro de usuário, produtos e suas categorias.
 Cada usuário possui nome, email, telefone, data de nascimento e uma senha de acesso. Os dados dos produtos são: nome, descrição, preço e imagem.
 
