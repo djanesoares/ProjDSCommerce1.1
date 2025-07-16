@@ -1,6 +1,6 @@
 Projeto Spring Boot - DSCommerce
 
-Foi desenvolvido um sistema em Java com framwork Spring Boot para ser utilizado nos curso como apoio no processo de aprendizado. A concepção e implementação do sistema seguiram as seguintes premissas:
+Foi desenvolvido um sistema em Java com framework Spring Boot para ser utilizado nos curso como apoio no processo de aprendizado. A concepção e implementação do sistema seguiram as seguintes premissas:
 
 •	O sistema contou com um modelo de domínio abrangente, explorando diversos tipos de relacionamentos entre entidades de negócio, como muitos-para-um e muitos-para-muitos.
 
