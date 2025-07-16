@@ -21,5 +21,11 @@ A partir desse catálogo, o usuário pode selecionar um produto para ver seus de
 
   <img width="570" height="266" alt="image" src="https://github.com/user-attachments/assets/fb297812-cc6d-4313-b365-a234a195da70" />
 
+  <img width="958" height="498" alt="image" src="https://github.com/user-attachments/assets/e01a8af2-1aec-4326-bcff-fc77d92a6ba3" />
+
+  <img width="955" height="493" alt="image" src="https://github.com/user-attachments/assets/749f3e02-ce53-4008-98fb-5c46fac09071" />
+
+
+
 
 
