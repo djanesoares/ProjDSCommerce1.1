@@ -26,6 +26,9 @@ A partir desse catálogo, o usuário pode selecionar um produto para ver seus de
 
   <img width="955" height="493" alt="image" src="https://github.com/user-attachments/assets/749f3e02-ce53-4008-98fb-5c46fac09071" />
 
+  <img width="944" height="536" alt="image" src="https://github.com/user-attachments/assets/7560b659-dbf0-46af-9c7a-38ac19b4f7d0" />
+
+
 
 
 
